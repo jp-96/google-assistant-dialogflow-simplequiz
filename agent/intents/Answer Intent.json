@@ -1,0 +1,36 @@
+{
+  "id": "f263c74a-6bd1-4f11-8b6b-6d72b5f12f5c",
+  "name": "Answer Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d8b7fe7c-1a58-4b4a-99f4-45d76dd23f33",
+          "dataType": "@AnswerEntity",
+          "name": "AnswerEntity",
+          "value": "$AnswerEntity",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525004057,
+  "fallbackIntent": false,
+  "events": []
+}

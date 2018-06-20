@@ -1,0 +1,36 @@
+{
+  "id": "76ec3f4b-d096-4439-b5fa-0cda3112f06c",
+  "name": "Yes Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2714f76a-8fb8-4105-aeb8-02b1e38968cc",
+          "dataType": "@YesEntity",
+          "name": "YesEntity",
+          "value": "$YesEntity",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525004863,
+  "fallbackIntent": false,
+  "events": []
+}

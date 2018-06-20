@@ -1,0 +1,16 @@
+[
+  {
+    "id": "03f2808d-0e5a-4bf5-914d-01f16d1d528e",
+    "data": [
+      {
+        "text": "ストップ",
+        "alias": "StopEntity",
+        "meta": "@StopEntity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525002214
+  }
+]

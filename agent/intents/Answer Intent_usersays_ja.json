@@ -1,0 +1,16 @@
+[
+  {
+    "id": "180af7bb-b1c1-4493-8a18-97d486555461",
+    "data": [
+      {
+        "text": "答え",
+        "alias": "AnswerEntity",
+        "meta": "@AnswerEntity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525004057
+  }
+]
